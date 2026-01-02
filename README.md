@@ -43,6 +43,9 @@ I have project and practical experience in:
 
 ---
 
+## 📊 Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgorcz2)](https://github.com/mgorcz2/github-readme-stats)
+
 
 ## 📌 Projects
 - 📦 **Shipments monitoring** – shipment handling and tracking application (FastAPI + React)
