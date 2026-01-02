@@ -44,7 +44,7 @@ I have project and practical experience in:
 ---
 
 ## 📊 Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgorcz2)](https://github.com/mgorcz2/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgorcz2)](https://github.com/mgorcz2/github-readme-stats)
 
 
 ## 📌 Projects
