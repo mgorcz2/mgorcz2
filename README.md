@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Marcin
-**OPEN TO WORK**
 
 🎓 Junior **Fullstack Developer**  
 🐍 Python | ⚡ FastAPI | ⚛️ React  
